@@ -1,4 +1,4 @@
-# RocketSeat 🔥 Ignite React ( Desafio Conceitos do React )
+# RocketSeat 🔥 Ignite React - Desafio Conceitos do React.
 
 ## ✔️ Projeto ToDo List
 Este projeto de ToDo List é um desafio proposto para reforçar os conceitos aprendidos nas aulas do módulo de conceitos do ReactJs, consiste em implementar algumas funcionalidades para que a todo list funcione corretamente e passe nos testes automatizados.  
