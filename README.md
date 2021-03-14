@@ -25,7 +25,7 @@ Este projeto de ToDo List é um desafio proposto para reforçar os conceitos apr
 * Jest
 * CrossEnv
   
-# 🖼️ Imagens do Projeto
+## 🖼️ Imagens do Projeto
 
 <div align="center"> 
 
