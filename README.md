@@ -1,5 +1,14 @@
 # RocketSeat 🔥 Ignite React - Desafio Conceitos do React.
 
+<!-- ************************************* Baadges ********************************************* -->
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/rocketseat-ignite-react-desafio-conceitos-react?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunoemferreira/rocketseat-ignite-react-desafio-conceitos-react">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/rocketseat-ignite-react-desafio-conceitos-react">
+</p>
+
+<p align="center">Finalizado em : 13/03/2021</p>
+
 ## ✔️ Projeto ToDo List
 Este projeto de ToDo List é um desafio proposto para reforçar os conceitos aprendidos nas aulas do módulo de conceitos do ReactJs, consiste em implementar algumas funcionalidades para que a todo list funcione corretamente e passe nos testes automatizados.  
 
